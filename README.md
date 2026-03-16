@@ -16,7 +16,7 @@ Website được thiết kế theo dạng **portfolio một trang (single-page)*
 # 👤 Thông tin sinh viên
 
 * **Họ tên:** Huỳnh Võ Tấn Hiên
-* **MSSV:** 23642061
+* **MSSV:** 
 * **Lớp:** ĐHKHDL19A
 * **Ngành:** Khoa học dữ liệu
 * **Trường:** Đại học Công Nghiệp TP. Hồ Chí Minh
@@ -183,7 +183,7 @@ hoặc mở bằng **Live Server trong VS Code**.
 # 📬 Liên hệ
 
 📧 Email: [huynhvotanhien150933@gmail.com](mailto:huynhvotanhien150933@gmail.com)
-📱 Điện thoại: 0964 803 549
+📱 Điện thoại: 
 
 💻 GitHub:
 https://github.com/hien15095
